@@ -3,7 +3,7 @@
 Creation of static and dynamically linked libraries on Visual studio C++.
 
 
-# Problem Description 
+**Problem Description**
 Data (“signals”) from a device such as a microphone can be processed (“filtered”) in various ways, for example it can be smoothed to reduce the effect of random noise or limited to prevent the signal outside a specified range. 
 
 A dynamic linked library(DLL) has been implemented so that the system can process signals using different algorithms("filters") each stored in the DLL. The signal will be stored in a text file(one integer per line).
